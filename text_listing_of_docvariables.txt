@@ -1,0 +1,51 @@
+County CntyName
+
+Digit1 CntyDigit1
+Digit2 CntyDigit2
+
+Year1 YearDigit1
+Year2 YearDigit2
+Year3 YearDigit3
+Year4 YearDigit4
+
+ConferenceNumber1 ConfNum1
+ConferenceNumber2 ConfNum2
+ConferenceNumber3 ConfNum3
+ConferenceNumber4 ConfNum4
+
+Conf Date Month1 ConfMonth1
+Conf Date Month2 ConfMonth2
+
+Conf Date Day1 ConfDay1
+Conf Date Day2 ConfDay2
+
+Conf Date Year1 ConfYear1
+Conf Date Year2 ConfYear2
+
+/* MCI Digits */
+MCI Digit1 MCIDigit1
+MCI Digit2 MCIDigit2
+MCI Digit3 MCIDigit3
+MCI Digit4 MCIDigit4
+MCI Digit5 MCIDigit5
+MCI Digit6 MCIDigit6
+MCI Digit7 MCIDigit7
+MCI Digit8 MCIDigit8
+MCI Digit9 MCIDigit9
+
+/* Family ID */
+Family ID Digit1  FamilyIDDigit1
+.....
+Family ID Digit10  FamilyIDDigit10
+
+/* checkboxes for which county
+Allegheny AlleghenyChkBox
+Dauphin DauphinChkBox
+Lackawanna LackawannaChkBox
+Philadelphia PhiladelphiaChkBox
+Venango VenangoChkBox
+
+Checkboxes for First Conf. vs. Follow-up Conf.
+First Conf. FirstConfChkBox
+Follow-up Conf. FollowupChkBox
+
